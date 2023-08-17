@@ -1,17 +1,19 @@
 export const typography = {
   variants: {
-    body5: {
-      fontWeight: {
-        xs: "400",
-        md: "400",
-      },
-      lineHeight: {
-        xs: "1.5",
-        md: "1.5",
-      },
-      fontSize: {
-        xs: "8px",
-      },
+    body1: {
+      fontSize: '0.875rem',
+      lineHeight: '1.5',
+      fontWeight: '400',
+    },
+    heading1: {
+      fontSize: '1.625rem',
+      lineHeight: '1.5',
+      fontWeight: '500',
+    },
+    link1: {
+      fontSize: '1.125rem',
+      lineHeight: '1',
+      fontWeight: '600',
     },
   },
 } as const;

@@ -1,1 +1,22 @@
-{"name":"next-pokemon","version":"1.0.0","main":"index.js","private":true,"scripts":{"dev":"next dev","build":"next build","start":"next start"},"dependencies":{"next":"latest","react":"18.2.0","react-dom":"18.2.0","styled-components":"^6.0.7"},"devDependencies":{"@types/node":"20.5.0","@types/react":"18.2.20","typescript":"5.1.6"}}
+{
+  "name": "next-pokemon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "styled-components": "^6.0.7"
+  },
+  "devDependencies": {
+    "@types/node": "20.5.0",
+    "@types/react": "18.2.20",
+    "typescript": "5.1.6"
+  }
+}

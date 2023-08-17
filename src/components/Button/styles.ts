@@ -10,10 +10,11 @@ export const ButtonContainer = styled.div<ButtonContainerProps>`
   padding: 0.9375rem;
   border-radius: 3.125rem;
   text-align: center;
-  color: ${theme.colors.white};
-  background: ${({ type }) => theme.colors.elements[type]};
-  font-size: 1.125rem;
-  font-weight: 600;
+  /* color: ${theme.colors.white}; */
+  background: ${({ type }) => theme.colors[type]};
+  /* font-size: 1.125rem;
+  font-weight: 600; */
+  cursor: pointer;
 `;
 
 // export const ButtonContainer = styled.div`
