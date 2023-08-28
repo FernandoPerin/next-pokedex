@@ -10,6 +10,9 @@ const variantText = {
   body1: (theme) => css`
     ${theme.typography.variants.body1};
   `,
+  body2: (theme) => css`
+    ${theme.typography.variants.body2};
+  `,
   heading1: (theme) => css`
     ${theme.typography.variants.heading1};
   `,

@@ -1,1 +1,1 @@
-export { default } from "@src/screens/Splash";
+export { default } from './screens/splash/index';

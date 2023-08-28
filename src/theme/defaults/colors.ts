@@ -21,6 +21,7 @@ export const colors = {
   poison: '#B567CE',
   fly: '#89AAE3',
   black: '#000000',
+  splash: '#000029',
   gray900: '#1A1A1A',
   gray800: '#333333',
   gray700: '#4D4D4D',
